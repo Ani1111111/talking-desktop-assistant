@@ -10,7 +10,7 @@ import wikipedia#used to search wikipedia(pip install wikipedia)
 import webbrowser#used to open webbrowser
 import os 
 import random
-import smtplib#for send email
+
 
 
 
